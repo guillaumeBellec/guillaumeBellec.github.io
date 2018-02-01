@@ -1,10 +1,8 @@
 # Guillaume Bellec
-PhD student at the [https://www.tugraz.at/institute/igi/home/](institute for theoretical computer science) (IGI).
-
+PhD student at the [institute for theoretical computer science](https://www.tugraz.at/institute/igi/home/) (IGI).
 Technical University of Graz in Austria
 
 email: family_name@igi.tugraz.at
-
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec%20(1).pdf)
 
 ![alt text](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/image_moi.jpg "Photo")
@@ -17,15 +15,11 @@ While I graduated from a competitive master of applied mathematics and machine l
 # Teaching
 
 - Computational Intelligence (Lectures and exercices at bachelor level)
-
 [Course material (IGI institute)](https://courses-igi.tugraz.at/courses/8)
-
 [More information about the class (Signal processing institute)](https://www.spsc.tugraz.at/courses/computational-intelligence)
-
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
 - Autonomously learning systems (Exercies at master level)
-
 [Course Material](https://courses-igi.tugraz.at/courses/6)
 
 
