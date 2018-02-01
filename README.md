@@ -1,8 +1,8 @@
 # Guillaume Bellec
-PhD student at the [institute for theoretical computer science](https://www.tugraz.at/institute/igi/home/) (IGI).
+PhD student at the [institute for theoretical computer science](https://www.tugraz.at/institute/igi/home/) (IGI).  
 Technical University of Graz in Austria
 
-email: family_name@igi.tugraz.at
+email: family_name@igi.tugraz.at  
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec%20(1).pdf)
 
 ![alt text](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/image_moi.jpg "Photo")
@@ -14,12 +14,12 @@ While I graduated from a competitive master of applied mathematics and machine l
 
 # Teaching
 
-- Computational Intelligence (Lectures and exercices at bachelor level)
-[Course material (IGI institute)](https://courses-igi.tugraz.at/courses/8)
-[More information about the class (Signal processing institute)](https://www.spsc.tugraz.at/courses/computational-intelligence)
+- Computational Intelligence (Lectures and exercices at bachelor level)  
+[Course material (IGI institute)](https://courses-igi.tugraz.at/courses/8)  
+[More information about the class (Signal processing institute)](https://www.spsc.tugraz.at/courses/computational-intelligence)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
-- Autonomously learning systems (Exercies at master level)
+- Autonomously learning systems (Exercies at master level)  
 [Course Material](https://courses-igi.tugraz.at/courses/6)
 
 
@@ -30,22 +30,22 @@ While I graduated from a competitive master of applied mathematics and machine l
 # Main publications
 For a complete list of publications please find my [google scholar Profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
 
-- Deep Rewiring: Training very sparse deep networks
-G Bellec, D Kappel, W Maass, R Legenstein
+- Deep Rewiring: Training very sparse deep networks  
+G Bellec, D Kappel, W Maass, R Legenstein  
 (ICLR 2018) International conference on learning representations
 
-- Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system
-S Schmitt, J Klähn, G Bellec, A Grübl, M Guettler, A Hartel, S Hartmann, ...
+- Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
+S Schmitt, J Klähn, G Bellec, A Grübl, M Guettler, A Hartel, S Hartmann, ...  
 (IJCNN 2017) International Joint Conference on Neural Networks
 
-- Slow feature analysis with spiking neurons and its application to audio stimuli
-G Bellec, M Galtier, R Brette, P Yger
+- Slow feature analysis with spiking neurons and its application to audio stimuli  
+G Bellec, M Galtier, R Brette, P Yger  
 (JCNS 2016) Journal of computational neuroscience
 
-- Creating audio based experiments as social web games with the casimir framework
-D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde
+- Creating audio based experiments as social web games with the casimir framework  
+D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde  
 (AES 2014) Audio Engineering Society Conference
 
-- A social network integrated game experiment to relate tapping to speed perception and explore rhythm reproduction
-G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
+- A social network integrated game experiment to relate tapping to speed perception and explore rhythm reproduction  
+G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde  
 (SMS 2013) Sound and Music Computing Conference
