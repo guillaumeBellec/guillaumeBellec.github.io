@@ -26,6 +26,8 @@ email: family_name@igi.tugraz.at
 # Code resources
 (to appear very soon)
 
+# Art works
+For music and related art works visit my [youtube channel](http://www.youtube.com/user/Adrienavets).
 
 # Main publications
 For a complete list of publications please find my [google scholar Profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
