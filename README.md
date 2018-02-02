@@ -35,7 +35,6 @@ For a complete list of publications please find my [google scholar Profile](http
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
 (ICLR 2018) International conference on learning representations  
-[(Code)](github.com/guillaumeBellec/deep_rewiring)
 
 - Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
 S Schmitt, J Klähn, G Bellec, A Grübl, M Guettler, A Hartel, S Hartmann, ...  
