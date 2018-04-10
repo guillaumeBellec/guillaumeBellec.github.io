@@ -2,7 +2,7 @@
 PhD student at the [institute for theoretical computer science](https://www.tugraz.at/institute/igi/home/) (IGI).  
 Technical University of Graz in Austria
 
-email: family_name@igi.tugraz.at  
+email: last_name@igi.tugraz.at  
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec%20(1).pdf)
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
