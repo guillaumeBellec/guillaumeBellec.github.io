@@ -36,7 +36,7 @@ Guillaume Bellec, Darjan Salaj, Anand Subramoney, Robert Legenstein, Wolfgang Ma
 
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
-(ICLR 2018) International conference on learning representations
+(ICLR 2018) International conference on learning representations  
 [(Arxiv 1711.05136)](https://arxiv.org/abs/1711.05136)
 
 - Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
