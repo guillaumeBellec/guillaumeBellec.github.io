@@ -15,8 +15,7 @@ email: family_name@igi.tugraz.at
 # Teaching
 
 - Computational Intelligence (Lectures and exercices at bachelor level)  
-[Course material (IGI institute)](https://courses-igi.tugraz.at/courses/8)  
-[More information about the class (Signal processing institute)](https://www.spsc.tugraz.at/courses/computational-intelligence)  
+[Course material](https://www.spsc.tugraz.at/courses/computational-intelligence)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
 - Autonomously learning systems (Exercies at master level)  
