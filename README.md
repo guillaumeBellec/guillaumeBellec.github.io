@@ -5,7 +5,7 @@ Technical University of Graz in Austria
 email: last_name@igi.tugraz.at  
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec%20(1).pdf)
 
-<img src="image_moi.jpg" alt="Photo" width="100px" />
+<img src="IMG_20180419_084718.jpg" alt="Photo" width="100px" />
 
   I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate theoretical models and simulation of neural networks which aim to reveal principles of brain computation. While I hope that my research will contribute to clinical progress and the development of machine intelligence that respect human morals, I am amazed to learn every day about how the brain makes us who we are. I am a curious person always eager to discover about the wonders of Nature and human societies, and I am grateful to learn about it with the best experts through collaborative research projects.
 
