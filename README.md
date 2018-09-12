@@ -1,8 +1,7 @@
 # Guillaume Bellec
 PhD student at the [institute for theoretical computer science](https://www.tugraz.at/institute/igi/home/) (IGI).  
 Technical University of Graz in Austria
-
-email: last_name@igi.tugraz.at  
+last_name@igi.tugraz.at  
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec.pdf)
 
 <img src="IMG_20180419_112526.jpg" alt="Photo" width="100px" />
