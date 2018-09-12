@@ -25,7 +25,7 @@ last_name@igi.tugraz.at
 - [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring)
 
 # Main publications
-For a complete list of publications please find my [google scholar Profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
+For a complete list of publications please find my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 Guillaume Bellec, Darjan Salaj, Anand Subramoney, Robert Legenstein, Wolfgang Maass  
