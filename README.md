@@ -28,9 +28,8 @@ last_name@igi.tugraz.at
 For a complete list of publications please find my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
-Guillaume Bellec, Darjan Salaj, Anand Subramoney, Robert Legenstein, Wolfgang Maass  
+Guillaume Bellec*, Darjan Salaj*, Anand Subramoney*, Robert Legenstein, Wolfgang Maass  
 [(NIPS 2018)](https://arxiv.org/abs/1803.09574)
-
 
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
@@ -52,6 +51,7 @@ D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde
 G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde  
 (SMS 2013) Sound and Music Computing Conference
 
+(* equal contributions)
 
 # Art works
 For music and related art works visit my [youtube channel](http://www.youtube.com/user/Adrienavets).
