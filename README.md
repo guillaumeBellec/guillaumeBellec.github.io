@@ -51,7 +51,7 @@ D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde
 G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde  
 (SMS 2013) Sound and Music Computing Conference
 
-(* equal contributions)
+(*: equal contributions and team work)
 
 # Art works
 For music and related art works visit my [youtube channel](http://www.youtube.com/user/Adrienavets).
