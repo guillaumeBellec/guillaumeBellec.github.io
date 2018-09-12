@@ -3,13 +3,13 @@ PhD student at the [institute for theoretical computer science](https://www.tugr
 Technical University of Graz in Austria
 
 email: last_name@igi.tugraz.at  
-[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec%20(1).pdf)
+[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/cv-guillaume-bellec.pdf)
 
 <img src="IMG_20180419_112526.jpg" alt="Photo" width="100px" />
 
-  I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate theoretical models and simulation of neural networks which aim to reveal principles of brain computation. While I hope that my research will contribute to clinical progress and the development of machine intelligence that respect human morals, I am amazed to learn every day about how the brain makes us who we are. I am a curious person always eager to discover about the wonders of Nature and human societies, and I am grateful to learn about it with the best experts through collaborative research projects.
+  I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate theoretical models and simulation of neural networks to reveal principles of brain computation. On the long term, I hope that my research will contribute to clinical progress and the development of machine intelligence that respect human morals. As a curious person I am always eager to discover about the wonders of Nature and human societies, and I am grateful to learn about it with the best experts through collaborative research projects.
 
-  While I graduated from a competitive master of Applied Mathematics and Machine Learning (at ENSTA Paristech and ENS Paris-Saclay), I initiated my academic career with lab rotations in Music Information Retreival and Psychoacoustics (at the City University of London and KTH Stockholm). This led me to question the world about the underlying physical and neural mechanism of sound perception. Beside bringing me into brain research, this was an opportunity to work with passion for sound and music technologies which was and remain my main hobby.
+  Before starting my PhD, I graduated from a competitve double-master of Applied Mathematics and Machine Learning (at ENSTA Paristech and ENS Paris-Saclay). In this context I completed various lab rotations, one of which was driven by my passion for sound and music and got me to study Music Information Retreival and Psychoacoustics. Ever since, I questioned myself about the neural mechanisms behind thoughts and perceptions.
 
 
 # Teaching
