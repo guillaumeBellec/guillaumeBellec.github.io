@@ -28,7 +28,7 @@ last_name@igi.tugraz.at
 For a complete list of publications please find my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
-Guillaume Bellec*, Darjan Salaj*, Anand Subramoney*, Robert Legenstein, Wolfgang Maass  
+Guillaume Bellec\*, Darjan Salaj\*, Anand Subramoney\*, Robert Legenstein, Wolfgang Maass  
 [(NIPS 2018)](https://arxiv.org/abs/1803.09574)
 
 - Deep Rewiring: Training very sparse deep networks  
