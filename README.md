@@ -8,7 +8,7 @@ last_name@igi.tugraz.at
 
   I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate models of learning and working memory. I am grateful to learn every day through readings and collaborative research projects. On the long term, I hope that my research will contribute to the clinical progress and the development of a machine intelligence that respects human morals. 
 
-  Before starting my PhD, I graduated from a competitve master of Machine Learning at ENS Paris-Saclay and from the engineering school ENSTA Paristech. There, I completed various lab rotations, one of which was initiated by my passion for music and got me to discover Psychoacoustics and Neuroscience. Ever since, I question myself about the neural mechanisms behind thoughts and perceptions.
+  Before starting my PhD, I graduated from a competitve master of Machine Learning at ENS Paris-Saclay and from the engineering school ENSTA Paristech. There I completed various lab rotations, one of which was initiated by my passion for music and got me to discover Psychoacoustics and Neuroscience. Ever since, I question myself about the neural mechanisms behind thoughts and perceptions.
 
 
 # Teaching
