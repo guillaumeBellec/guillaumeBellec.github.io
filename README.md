@@ -40,7 +40,7 @@ G Bellec, D Kappel, W Maass, R Legenstein
 [ICLR 2018](https://arxiv.org/abs/1711.05136)
 
 - Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
-S Schmitt, J Klähn, G Bellec, A Grübl, M Guettler, A Hartel, S Hartmann, ...  
+S Schmitt, J Klähn, G Bellec, ... R Legenstein, W Maass, J Schemmel, K Meier  
 (IJCNN 2017) International Joint Conference on Neural Networks
 
 - Slow feature analysis with spiking neurons and its application to audio stimuli  
