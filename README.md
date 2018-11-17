@@ -31,6 +31,10 @@ For a complete list of publications please find my [google scholar profile](http
 Guillaume Bellec\*, Darjan Salaj\*, Anand Subramoney\*, Robert Legenstein, Wolfgang Maass  
 [(NIPS 2018)](https://arxiv.org/abs/1803.09574)
 
+- Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype
+Chen Liu*, Guillaume Bellec*, ...  Robert Legenstein and Christian G. Mayr
+[Frontiers in Neuroscience | Neuromorphic Engineering](https://www.frontiersin.org/articles/10.3389/fnins.2018.00840/full)
+
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
 [(ICLR 2018)](https://arxiv.org/abs/1711.05136)
