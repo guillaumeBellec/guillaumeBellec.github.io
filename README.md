@@ -29,7 +29,7 @@ For a complete list of publications please find my [google scholar profile](http
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 Guillaume Bellec\*, Darjan Salaj\*, Anand Subramoney\*, Robert Legenstein, Wolfgang Maass  
-[(NIPS 2018)](https://arxiv.org/abs/1803.09574)
+[NIPS 2018](https://arxiv.org/abs/1803.09574)
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
 Chen Liu*, Guillaume Bellec*, ...  Robert Legenstein and Christian G. Mayr  
@@ -37,7 +37,7 @@ Chen Liu*, Guillaume Bellec*, ...  Robert Legenstein and Christian G. Mayr
 
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
-[(ICLR 2018)](https://arxiv.org/abs/1711.05136)
+[ICLR 2018](https://arxiv.org/abs/1711.05136)
 
 - Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
 S Schmitt, J Klähn, G Bellec, A Grübl, M Guettler, A Hartel, S Hartmann, ...  
