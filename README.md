@@ -33,7 +33,7 @@ Guillaume Bellec\*, Darjan Salaj\*, Anand Subramoney\*, Robert Legenstein, Wolfg
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
 Chen Liu*, Guillaume Bellec*, ...  Robert Legenstein and Christian G. Mayr  
-[Frontiers in Neuroscience | Neuromorphic Engineering](https://www.frontiersin.org/articles/10.3389/fnins.2018.00840/full)
+[Frontiers in Neuroscience | Neuromorphic Engineering 2018](https://www.frontiersin.org/articles/10.3389/fnins.2018.00840/full)
 
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
