@@ -32,7 +32,7 @@ G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass
 [NIPS 2018](https://arxiv.org/abs/1803.09574)
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
-C Liu*, G Bellec*, ...  R Legenstein and C Mayr  
+C Liu*, G Bellec* ...  R Legenstein and C Mayr  
 [Frontiers in Neuroscience | Neuromorphic Engineering 2018](https://www.frontiersin.org/articles/10.3389/fnins.2018.00840/full)
 
 - Deep Rewiring: Training very sparse deep networks  
@@ -40,7 +40,7 @@ G Bellec, D Kappel, W Maass, R Legenstein
 [ICLR 2018](https://arxiv.org/abs/1711.05136)
 
 - Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
-S Schmitt, J Klähn, G Bellec, ... R Legenstein, W Maass, J Schemmel, K Meier  
+S Schmitt, J Klähn, G Bellec ... R Legenstein, W Maass, J Schemmel, K Meier  
 (IJCNN 2017) International Joint Conference on Neural Networks
 
 - Slow feature analysis with spiking neurons and its application to audio stimuli  
