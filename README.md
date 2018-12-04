@@ -8,10 +8,13 @@ last_name@igi.tugraz.at
 
   I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate models of learning and working memory. I am grateful to learn every day through readings and collaborative research projects. On the long term, I hope that my research will contribute to the clinical progress and the development of a machine intelligence that respects human morals. 
 
-  Before starting my PhD, I graduated from a competitve master of Machine Learning at ENS Paris-Saclay and from the engineering school ENSTA Paristech. There I completed various lab rotations, one of which was initiated by my passion for music and got me to discover Psychoacoustics and Neuroscience. Ever since, I question myself about the neural mechanisms behind thoughts and perceptions.
+  Before starting my PhD, I graduated from a competitve master of Machine Learning at ENS Paris-Saclay and from the engineering school ENSTA Paristech. There I completed various lab rotations, one of which was initiated by my passion for music and got me to discover Psychoacoustics and Neuroscience. Ever since, I have worked on advancing our understanding of the neural mechanisms behind thoughts and perceptions.
 
 
 # Teaching
+
+- Machine Learning
+[Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
 
 - Computational Intelligence (Lectures and exercices at bachelor level)  
 [Course material](https://www.spsc.tugraz.at/courses/computational-intelligence)  
@@ -22,7 +25,7 @@ last_name@igi.tugraz.at
 
 
 # Code resources
-- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring)
+- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow. Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
 
 # Main publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
