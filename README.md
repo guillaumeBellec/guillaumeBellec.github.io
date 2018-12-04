@@ -10,22 +10,8 @@ last_name@igi.tugraz.at
 
   Before starting my PhD, I graduated from a competitve master of Machine Learning at ENS Paris-Saclay and from the engineering school ENSTA Paristech. There I completed various lab rotations, one of which was initiated by my passion for music and got me to discover Psychoacoustics and Neuroscience. Ever since, I have worked on advancing our understanding of the neural mechanisms behind thoughts and perceptions.
 
-
-# Teaching
-
-- Machine Learning
-[Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
-
-- Computational Intelligence (Lectures and exercices at bachelor level)  
-[Course material](https://www.spsc.tugraz.at/courses/computational-intelligence)  
-[Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
-
-- Autonomously learning systems (Exercies at master level)  
-[Course Material](https://courses-igi.tugraz.at/courses/6)
-
-
 # Code resources
-- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow. Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
+- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow.  Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
 
 # Main publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
@@ -59,6 +45,18 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 (SMS 2013) Sound and Music Computing Conference
 
 (*: equal contributions and team work)
+
+# Teaching
+
+- Machine Learning  
+[Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
+
+- Computational Intelligence (Lectures and exercices at bachelor level)  
+[Course material](https://www.spsc.tugraz.at/courses/computational-intelligence)  
+[Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
+
+- Autonomously learning systems (Exercies at master level)  
+[Course Material](https://courses-igi.tugraz.at/courses/6)
 
 # Art works
 For music and related art works visit my [youtube channel](http://www.youtube.com/user/Adrienavets).
