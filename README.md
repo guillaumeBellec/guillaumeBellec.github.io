@@ -2,7 +2,7 @@
 
 # Guillaume Bellec
 
-[Code resources](#code-resources) - [Publications](#publications) - [Teaching](#Teaching)  
+[Code resources](#code-resources) - [Publications](#main-publications) - [Teaching](#teaching) - [Art works](#art-works)
 
 
 
