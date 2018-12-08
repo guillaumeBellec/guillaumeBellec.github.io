@@ -1,6 +1,11 @@
-{:toc}
+
 
 # Guillaume Bellec
+
+[Code resources](#code-resources) - [Publications](#publications) - [Teaching](#Teaching)  
+
+
+
 PhD student at the [institute for theoretical computer science](https://www.tugraz.at/institute/igi/home/) (IGI).  
 Technical University of Graz in Austria  
 last_name@igi.tugraz.at  
