@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.markdown-body > h1:first-child {
+    display:none;
+}
