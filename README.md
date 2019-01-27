@@ -25,6 +25,11 @@ last_name @ igi.tugraz.at
 # Main publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
 
+- Biologically inspired alternatives to backpropagation through time for
+  learning in recurrent neural nets  
+G Bellec*, F Scherr*, E Hajek, D Salaj, R Legenstein, W Maass  
+[Download pdf](bellec_biologically_2019.pdf)
+
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass  
 [NIPS 2018](https://arxiv.org/abs/1803.09574)
