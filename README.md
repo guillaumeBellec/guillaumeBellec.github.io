@@ -28,7 +28,7 @@ For a complete list of publications, visit my [google scholar profile](https://s
 - Biologically inspired alternatives to backpropagation through time for
   learning in recurrent neural nets  
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
-[Download pdf](bellec_biologically_2019.pdf)
+[arxiv](https://arxiv.org/abs/1901.09049)
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass  
