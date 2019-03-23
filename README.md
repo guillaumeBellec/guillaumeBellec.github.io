@@ -11,7 +11,7 @@ Technical University of Graz in Austria
 first_name.last_name @ igi.tugraz.at  
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_Guillaume_Bellec_short.pdf)
 
-<img src="IMG_20180419_112526.jpg" alt="Photo" width="100px" />
+<img src="image_moi.jpg" alt="Photo" width="100px" />
 
   I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate models of learning and working memory. I am grateful to learn every day through readings and collaborative research projects. On the long term, I hope that my research will contribute to the clinical progress and the development of a machine intelligence that respects human morals. 
 
