@@ -62,7 +62,7 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 
 # Teaching
 
-- Machine Learning  (Practicals at master level) 
+- Machine Learning  (Practicals at master level)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
 
 - Computational Intelligence (Lectures and practicals at bachelor level)  
