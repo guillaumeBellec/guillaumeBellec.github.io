@@ -62,14 +62,14 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 
 # Teaching
 
-- Machine Learning  
+- Machine Learning  (Practicals at master level) 
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
 
-- Computational Intelligence (Lectures and exercices at bachelor level)  
+- Computational Intelligence (Lectures and practicals at bachelor level)  
 [Course material](https://www.spsc.tugraz.at/courses/computational-intelligence)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
-- Autonomously learning systems (Exercies at master level)  
+- Autonomously learning systems (Practicals at master level)  
 [Course Material](https://courses-igi.tugraz.at/courses/6)
 
 # Art works
