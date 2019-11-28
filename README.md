@@ -25,15 +25,15 @@ guillaume @ bellec . eu
 # Main publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
 
-- A solution to the learning dilemma for recurrent networks of spiking neurons
+- A solution to the learning dilemma for recurrent networks of spiking neurons  
 G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass  
 [BioRxiv 2019 (under review)](https://www.biorxiv.org/content/10.1101/738385v2.abstract)
 
-- Eligibility traces provide a data-inspired alternative to backpropagation through time
+- Eligibility traces provide a data-inspired alternative to backpropagation through time  
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, A Subramoney, R Legenstein, W Maass  
 [NeurIPS 2019 (workshop)](https://openreview.net/forum?id=SkxJ4QKIIS)
 
-- Slow processes of neurons enable a biologically plausible approximation to policy gradient
+- Slow processes of neurons enable a biologically plausible approximation to policy gradient  
 A Subramoney\*, G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
 [NeurIPS 2019 (workshop)](https://sites.google.com/view/biologicalandartificialrl#h.p_rtzf9pTMv6QI)
 
