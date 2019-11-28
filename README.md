@@ -31,7 +31,7 @@ G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass
 
 - Eligibility traces provide a data-inspired alternative to backpropagation through time
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, A Subramoney, R Legenstein, W Maass  
-[NeurIPS 2019 (workshop)](https://sites.google.com/view/biologicalandartificialrl#h.p_rtzf9pTMv6QI)
+[NeurIPS 2019 (workshop)](https://openreview.net/forum?id=SkxJ4QKIIS)
 
 - Slow processes of neurons enable a biologically plausible approximation to policy gradient
 A Subramoney\*, G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
