@@ -27,7 +27,7 @@ For a complete list of publications, visit my [google scholar profile](https://s
 
 - A solution to the learning dilemma for recurrent networks of spiking neurons  
 G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass  
-[BioRxiv 2019 (under review)](https://www.biorxiv.org/content/10.1101/738385v2.abstract)
+[BioRxiv 2019 (under review)](https://www.biorxiv.org/content/10.1101/738385v3)
 
 - Eligibility traces provide a data-inspired alternative to backpropagation through time  
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, A Subramoney, R Legenstein, W Maass  
