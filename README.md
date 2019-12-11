@@ -6,16 +6,16 @@
 
 
 
-PhD student at the institute for theoretical computer science (IGI).  
-Technical University of Graz in Austria  
+Postdoc at the Laboratory of Computational Neuroscience.  
+Ecole Polytechnique Fédérale de Lausanne (EPFL)
 guillaume @ bellec . eu   
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_.pdf.pdf)
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
 
-  I am a PhD student of in the Institute for Theoretical Computer Science in the Technical University of Graz in Austria. Under the supervision of Professor Wolfgang Maass, I investigate models of learning and working memory. I am grateful to learn every day through readings and collaborative research projects. On the long term, I hope that my research will contribute to the clinical progress and the development of machine intelligence that respects human morals. 
+  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience of EPFL. Before that I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz in Austria. There, I developped learning theories for network models that are inspired by recent discoveries in neuroscience. We have shown that our models can be as efficient as deep learning algorithms, eventhough it models explicitly the biophysical mechanisms used by the brain to learn and compute. I hope that my work can help the scientific community to understand better the mysteries of biology.
 
-  Before starting my PhD, I graduated from a competitive master of Machine Learning at ENS Paris-Saclay and from the engineering school ENSTA Paristech. There I completed various lab rotations, one of which was initiated by my passion for music and got me to discover Psychoacoustics and Neuroscience. Ever since, I have worked on advancing our understanding of the neural mechanisms behind thoughts and perceptions.
+  During my studies, I acquired strong technical competences in applied mathematics and machine learning and I also wanted to apply that to a concrete project with a direct impact. Hence, I co-founded and developed [ChordAI](http://chordai.net/) with Viven Seguy, an app that can recognize guitar chords in real-time using deep learning techonlogy. I hope that it will help many music fans like me to play there instruments.  
 
 
 
