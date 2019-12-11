@@ -18,7 +18,7 @@ guillaume @ bellec . eu
   During my studies, I acquired strong technical competences in applied mathematics and machine learning and I also wanted to apply that to a concrete project with a direct impact. Hence, I co-founded and developed [ChordAI](http://chordai.net/) with Viven Seguy, an app that can recognize guitar chords in real-time using deep learning techonlogy. I hope that it will help many music fans like me to play there instruments.  
 
 
-<video width="280" height="500" src="https://www.youtube.com/embed/B7O4t7mweVw"/>
+<object width="280" height="500" src="https://www.youtube.com/embed/B7O4t7mweVw"/>
 
 
 
