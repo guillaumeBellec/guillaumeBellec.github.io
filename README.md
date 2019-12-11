@@ -18,10 +18,6 @@ guillaume @ bellec . eu
   During my studies, I acquired strong technical competences in applied mathematics and machine learning and I also wanted to apply that to a concrete project with a direct impact. Hence, I co-founded and developed [ChordAI](http://chordai.net/) with Viven Seguy, an app that can recognize guitar chords in real-time using deep learning techonlogy. I hope that it will help many music fans like me to play there instruments.  
 
 
-<object width="280" height="500" src="https://www.youtube.com/embed/B7O4t7mweVw"/>
-
-
-
 # Code resources
 - [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow.  Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
 
