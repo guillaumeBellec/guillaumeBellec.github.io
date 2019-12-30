@@ -2,7 +2,7 @@
 
 # Guillaume Bellec
 
-[Code resources](#code-resources) - [Publications](#main-publications) - [Teaching](#teaching) - [Art works](#art-works)
+[Code resources](#code-resources) - [Publications](#main-publications) - [Teaching](#teaching)
 
 
 
@@ -80,6 +80,3 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
 - Autonomously learning systems (Practicals at master level) 
-
-# Art works
-For music and related art works visit my [youtube channel](http://www.youtube.com/user/Adrienavets).
