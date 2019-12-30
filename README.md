@@ -73,10 +73,10 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 
 # Teaching
 
-- Machine Learning  (Practicals at master level)  
+- Machine Learning at TU Graz (Practicals at master level)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
 
-- Computational Intelligence (Lectures and practicals at bachelor level)  
+- Computational Intelligence at TU Graz (Lectures and practicals at bachelor level)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
-- Autonomously learning systems (Practicals at master level) 
+- Reinforcement learning at TU Graz (aka autonously learning systems, practicals at master level) 
