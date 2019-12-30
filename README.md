@@ -73,10 +73,12 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 
 # Teaching
 
-- Machine Learning at TU Graz in 2019 (Practicals at master level)  
+- Machine Learning at TU Graz in 2019  (practicals at master level)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
 
-- Introduction to machine learning at TU Graz from 2016 to 2019 (aka computational intelligence, lectures and practicals at bachelor level)  
+- Introduction to machine learning at TU Graz from 2016 to 2019  
+(aka computational intelligence, lectures and practicals at bachelor level)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
-- Reinforcement learning at TU Graz in 2017 (aka autonously learning systems, practicals at master level) 
+- Reinforcement learning at TU Graz in 2017  
+(aka autonously learning systems, practicals at master level) 
