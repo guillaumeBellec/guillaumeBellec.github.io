@@ -13,9 +13,9 @@ guillaume @ bellec . eu
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
 
-  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience of EPFL. Before that I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz in Austria. There, I developped learning theories for network models that are inspired by recent discoveries in neuroscience. We have shown that our models can be as efficient as deep learning algorithms, eventhough it models explicitly the biophysical mechanisms used by the brain to learn and compute. I hope that my work will help to understand better the mysteries of biology.
+  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience of EPFL. Before that I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz in Austria. There, I developped learning theories for network models that are inspired by recent discoveries in neuroscience. We have shown that our models can be as efficient as deep learning algorithms, even if they model more explicitly the biophysical mechanisms observed in the brain. I hope that my work will help to understand better the mysteries of biology.
 
-  During my studies, I acquired strong technical competences in applied mathematics and machine learning and I also wanted to apply that to a concrete project with a direct impact. Hence, I co-founded and developed [ChordAI](http://chordai.net/) with Viven Seguy, an app that can recognize guitar chords in real-time using deep learning techonlogy. I hope that it will help many music fans like me to play there instruments.  
+  During my master and my PhD, I acquired strong competences in applied mathematics and machine learning and I also wanted to apply those to a concrete project with a direct impact. Hence, I collaborated with Vivien Seguy to develop [ChordAI](http://chordai.net/), an app that can recognize guitar chords in real-time using deep learning technology. I hope that it will help many music fans like me to play their instruments.  
 
 
 # Code resources
