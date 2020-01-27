@@ -13,9 +13,9 @@ guillaume @ bellec . eu
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
 
-  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience of EPFL. Before that I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz in Austria. There, I developped learning theories for network models that are inspired by recent discoveries in neuroscience. We have shown our models were competitive against artificial intelligence system, even if they model explicitly the biophysical mechanisms observed in the brain. I hope that my research with help the understanding of the animal nervous system.
+  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience of EPFL. Before that I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz in Austria. There, I developped learning theories for network models that are inspired by recent discoveries in neuroscience. We have shown for the first time that our models were competitive against advanced artificial intelligence systems, even if they model explicitly the electrical pulses that neurons exchange in the brain. I hope that my research with help understanding how intelligence emerges from the electrical activity of the animal nervous systems.
 
-  During my master and my PhD, I acquired strong competences in applied mathematics and machine learning. Eager to apply that for solving concrete problems I face every day, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy, an app that can recognize guitar chords in real-time using deep learning technology. I hope that it will help many music fans like me to play their instruments.  
+  During my master and my PhD, I acquired strong competences in applied mathematics and machine learning. Eager to also apply that to concrete problems, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help many amator musicians to enjoy praticing their instruments.  
 
 
 # Code resources
