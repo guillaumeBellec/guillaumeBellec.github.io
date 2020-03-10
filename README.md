@@ -13,9 +13,9 @@ guillaume @ bellec . eu
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
 
-  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL, Switzerland. Before that, I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz, Austria. I developped theories of neural networks and learning that are inspired by recent discoveries in neuroscience. A major achievement of my PhD was to show that a competitive artificial intelligence can emerge from neuron models communicating information through short electrical pulses like in the brain (called spikes).
+  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL, Switzerland. Before that, I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz, Austria. I developped theories of neural networks and learning inspired by recent discoveries in neuroscience. The first major achievement of my PhD was to show that a competitive artificial intelligence can emerge, like in the brain, from neuron models communicating information through short electrical pulses (called spikes). The second major achievement, was to identify learning mechanisms that are compatible with experimental data, hence showing the existence of biologically plausible alternatives to the learning algorithms used in machine learning.
 
-  During my master and my PhD, I acquired strong competences in applied mathematics and machine learning. Eager to also apply that to concrete problems, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help many amator musicians to enjoy praticing their instruments.  
+  During my studies, I acquired strong competences in applied mathematics and machine learning. Eager to also apply to fun and useful applications, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help amator musicians praticing their instruments.  
 
 
 # Code resources
