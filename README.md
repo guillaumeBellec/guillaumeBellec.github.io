@@ -15,7 +15,7 @@ guillaume @ bellec . eu
 
   I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL, Switzerland. Before that, I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz, Austria. I developped theories of neural networks and learning inspired by recent discoveries in neuroscience. One major achievement of my PhD was to show that a competitive form of artificial intelligence can emerge from neuron models communicating via short electric pulses like in the brain.
 
-  During my studies, I acquired strong competences in applied mathematics and machine learning. Eager to also apply to fun and useful applications, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help amator musicians praticing their instruments.  
+  During my studies, I acquired strong competences in applied mathematics and machine learning. Eager to also apply that to fun and useful applications, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help amator musicians praticing their instruments.  
 
 
 # Code resources
