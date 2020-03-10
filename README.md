@@ -13,12 +13,15 @@ guillaume @ bellec . eu
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
 
-  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience of EPFL. Before that I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz in Austria. There, I developped learning theories for network models that are inspired by recent discoveries in neuroscience. We have shown for the first time that our models were competitive against advanced artificial intelligence systems, even if they model explicitly the electrical pulses that neurons exchange in the brain. I hope that my research with help understanding how intelligence emerges from the electrical activity of the animal nervous systems.
+  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL, Switzerland. Before that, I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz, Austria. I developped theories of neural networks and learning that are inspired by recent discoveries in neuroscience. A major achievement of my PhD was to show that a competitive artificial intelligence can emerge from neuron models communicating information through short electrical pulses like in the brain (called spikes).
 
   During my master and my PhD, I acquired strong competences in applied mathematics and machine learning. Eager to also apply that to concrete problems, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help many amator musicians to enjoy praticing their instruments.  
 
 
 # Code resources
+
+- [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow.  Code used in the [NIPS 2018 paper](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons) _Long short-term memory and Learning-to-learn in spiking neural networks_.
+
 - [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow.  Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
 
 # Main publications
