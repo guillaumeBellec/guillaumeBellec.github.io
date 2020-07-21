@@ -13,23 +13,25 @@ guillaume @ bellec . eu
 
 <img src="image_moi.jpg" alt="Photo" width="100px" />
 
-  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL, Switzerland. Before that, I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science at the Technical University of Graz, Austria. I developped theories of neural networks and learning inspired by recent discoveries in neuroscience. One major achievement of my PhD was to show that a competitive form of artificial intelligence can emerge from neuron models communicating via short electric pulses like in the brain.
+  I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL, Switzerland. Before that, I completed my PhD with Wolfgang Maass in the Institute of Theoretical Computer Science of TU Graz in Austria. I develop theories of computation and learning in neural networks to advance our understanding the brain. A major achievement of my PhD was to show that intelligence can emerge in networks of spiking neurons from local learning rules. In constrast to classical machine learning, these models are compatile with a number of observation from neuroscience and new mathematical theories were required.
 
-  During my studies, I acquired strong competences in applied mathematics and machine learning. Eager to also apply that to fun and useful applications, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help amator musicians praticing their instruments.  
+  Through my research, I learnt a lot about machine learning and I wanted to see if I could also build a fun and concrete application out of that. As I am passionate about music, I developed [ChordAI](http://chordai.net/)  with Vivien Seguy. This mobile app can recognize guitar chords in real-time using deep learning technology. It is available for download since 2019 and I hope that it will help amator musicians praticing their instruments.  
 
 
 # Code resources
+
+- [E-prop](https://github.com/IGITUGraz/eligibility_propagation) in Tensorflow. Code used in the [Nature Communications 2020 paper](https://www.nature.com/articles/s41467-020-17236-y) _A solution to the learning dilemma for recurrent networks of spiking neurons_.
 
 - [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow.  Code used in the [NIPS 2018 paper](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons) _Long short-term memory and Learning-to-learn in spiking neural networks_.
 
 - [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow.  Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
 
 # Main publications
-For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ&hl=fr).
+For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
 - A solution to the learning dilemma for recurrent networks of spiking neurons  
 G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass  
-[BioRxiv 2019 (under review)](https://www.biorxiv.org/content/10.1101/738385v3)
+[Nature Communications](https://www.nature.com/articles/s41467-020-17236-y)
 
 - Eligibility traces provide a data-inspired alternative to backpropagation through time  
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, A Subramoney, R Legenstein, W Maass  
