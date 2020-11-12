@@ -11,7 +11,7 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL)
 guillaume @ bellec . eu   
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_.pdf)
 
-<img src="image_moi.jpg" alt="Photo" width="100px" />
+<img src="portrait_gb.jepg" alt="Photo" width="100px" />
 
   I develop theories to advance our understanding of brains and intelligent machines. I studied artificial intelligence during my Master in Paris and I completed my PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland.
 
