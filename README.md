@@ -32,20 +32,12 @@ For a complete list of publications, visit my [google scholar profile](https://s
 
 - A solution to the learning dilemma for recurrent networks of spiking neurons  
 G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass  
-[Nature Communications](https://www.nature.com/articles/s41467-020-17236-y)
-
-- Eligibility traces provide a data-inspired alternative to backpropagation through time  
-G Bellec\*, F Scherr\*, E Hajek, D Salaj, A Subramoney, R Legenstein, W Maass  
-[NeurIPS 2019 (workshop)](https://openreview.net/forum?id=SkxJ4QKIIS)
-
-- Slow processes of neurons enable a biologically plausible approximation to policy gradient  
-A Subramoney\*, G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
-[NeurIPS 2019 (workshop)](https://sites.google.com/view/biologicalandartificialrl#h.p_rtzf9pTMv6QI)
+[Nature Communications 2020](https://www.nature.com/articles/s41467-020-17236-y)
 
 - Biologically inspired alternatives to backpropagation through time for
   learning in recurrent neural nets  
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
-[arxiv](https://arxiv.org/abs/1901.09049)
+[arxiv 2019](https://arxiv.org/abs/1901.09049)
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass  
