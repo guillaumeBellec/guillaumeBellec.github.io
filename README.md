@@ -9,7 +9,7 @@
 Postdoc at the Laboratory of Computational Neuroscience  
 Ecole Polytechnique Fédérale de Lausanne (EPFL)  
 guillaume @ bellec . eu   
-[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_.pdf)
+[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_(4).pdf)
 
 <img src="portrait_gb.jpeg" alt="Photo" width="100px" />
 
