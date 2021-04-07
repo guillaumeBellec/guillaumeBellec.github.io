@@ -13,7 +13,7 @@ guillaume @ bellec . eu
 
 <img src="portrait_gb.jpeg" alt="Photo" width="100px" />
 
-  I develop theories to advance our understanding of brains and intelligent machines. I studied artificial intelligence during my Master in Paris and I completed my PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. My work is most-well known for showing that powerful artificial intelligence can emerge from simple mathematical models of biological neural networks.
+  I develop theories to advance our understanding of brains and intelligent machines. I studied artificial intelligence during my Master in Paris and I completed my PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. My work is most-well known for showing that powerful artificial intelligence can emerge from simple mathematical models of biologically realistic neural networks.
   
   In 2019 I created [Chord AI](https://chordai.net) with Vivien Seguy, another post-doc level researcher. Chord AI is a mobile application using deep learning and artificial neural networks to recognize musical chords in real-time, in January 2021 we had more than 100,000 users. The technical achievements has been to bring state-of-the-art artificial intelligence technology to any popular power-limited mobile device. Besides the scientific relevance, I hope that it will help other amator musicians like me to improve their musical skills.
 
