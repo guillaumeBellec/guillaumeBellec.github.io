@@ -44,7 +44,7 @@ G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass  
-[NIPS 2018](https://arxiv.org/abs/1803.09574)
+[NIPS 2018](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf) [arxiv](https://arxiv.org/abs/1803.09574)
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
 C Liu\*, G Bellec\* ...  R Legenstein and C Mayr  
