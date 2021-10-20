@@ -20,6 +20,7 @@ guillaume @ bellec . eu
 # Online talks
 
 Pints of science 2021: <br/> scientific vulgarization about the brain | NeurIPS workshop 2019: <br/> contributed talk
+-|-
 [<img src="pints_of_science_screenshot.png" alt="Video" width="200px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4)|[<img src="neurips_talk.png" alt="Video" width="200px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest)
 
 
