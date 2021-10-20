@@ -19,12 +19,24 @@ guillaume @ bellec . eu
   
 # Online talks
 
-Pints of science 2021: scientific vulgarization about the brain
-<img src="pints_of_science_screenshot.jpg" alt="Video" width="100px" />
-[<img src="pints_of_science_screenshot.jpg" alt="Video" width="100px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4)
+<table border="0">
+ <tr>
+    <td>
+    Pints of science 2021: scientific vulgarization about the brain
+    [<img src="pints_of_science_screenshot.png" alt="Video" width="100px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4)
+   </td>
+ </tr>
+ <tr>
+    <td>
+   
+    NeurIPS workshop 2019: Eligibility traces provides a data inspired alternative to back-prop through time (contributed talk)
+    [<img src="neuips_talk.png" alt="Video" width="100px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest)
 
-NeurIPS workshop 2019: Eligibility traces provides a data inspired alternative to back-prop through time (contributed talk)
-[<img src="neuips_talk.jpg" alt="Video" width="100px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest)
+   </td>
+ </tr>
+</table>
+
+
 
 # Code resources
 
