@@ -11,7 +11,7 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL)
 guillaume @ bellec . eu   
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_(4).pdf)
 
-<img src="guillaume_bellec_lac.jpg" alt="Photo" width="100px" />
+<img src="guillaume_bellec_lac.jpg" alt="Photo" width="200px" />
 
   I develop theories to advance our understanding of brains and intelligent machines. I studied mahcine learning during my Master in Paris and I completed my PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. Currently I am studying animal intelligence using theories from machine learning and artificial intelligence, I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. My work is most well-known for showing that a powerful intelligence can emerge from simple mathematical models of biologically realistic neural networks.
   
@@ -19,22 +19,11 @@ guillaume @ bellec . eu
   
 # Online talks
 
-<table border="0">
- <tr>
-    <td>
-    Pints of science 2021: scientific vulgarization about the brain
-    [<img src="pints_of_science_screenshot.png" alt="Video" width="100px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4)
-   </td>
- </tr>
- <tr>
-    <td>
-   
-    NeurIPS workshop 2019: Eligibility traces provides a data inspired alternative to back-prop through time (contributed talk)
-    [<img src="neuips_talk.png" alt="Video" width="100px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest)
+| Pints of science 2021: scientific vulgarization about the brain | NeurIPS workshop 2019: Eligibility traces provides a data inspired alternative to back-prop through time (contributed talk) |
+| [<img src="pints_of_science_screenshot.png" alt="Video" width="200px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4) | 
+[<img src="neuips_talk.png" alt="Video" width="200px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest) |
 
-   </td>
- </tr>
-</table>
+
 
 
 
