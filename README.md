@@ -39,11 +39,11 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
 - Fitting summary statistics of neural data with a differentiable spiking network simulator  
-G Bellec\*, S Wang\*, A Modirshanechi, J Brea, W Gerstner  
+G Bellec\*, S Wang\*, A Modirshanechi, J Brea, W Gerstner   
 [NIPS 2021](https://arxiv.org/abs/2106.10064) 
 
 - Local plasticity rules can learn deep representations using self-supervised contrastive predictions  
-B Illing, J Ventura, G Bellec\*, W Gerstner\* 
+B Illing, J Ventura, G Bellec\*, W Gerstner\*   
 [NIPS 2021](https://arxiv.org/abs/2010.08262)
 
 - A solution to the learning dilemma for recurrent networks of spiking neurons  
