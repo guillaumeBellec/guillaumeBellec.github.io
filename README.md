@@ -11,11 +11,19 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL)
 guillaume @ bellec . eu   
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_(4).pdf)
 
-<img src="portrait_gb.jpeg" alt="Photo" width="100px" />
+<img src="guillaume_bellec_lac.jpg" alt="Photo" width="100px" />
 
-  I develop theories to advance our understanding of brains and intelligent machines. I studied artificial intelligence during my Master in Paris and I completed my PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. My work is most well-known for showing that powerful artificial intelligence can emerge from simple mathematical models of biologically realistic neural networks.
+  I develop theories to advance our understanding of brains and intelligent machines. I studied mahcine learning during my Master in Paris and I completed my PhD with Wolfgang Maass in the Institute for Theoretical Computer Science of TU Graz in Austria. Currently I am studying animal intelligence using theories from machine learning and artificial intelligence, I am now a postdoc with Wulfram Gerstner in the Laboratory of Computational Neuroscience at EPFL in Switzerland. My work is most well-known for showing that a powerful intelligence can emerge from simple mathematical models of biologically realistic neural networks.
   
-  In 2019 I created [Chord AI](https://chordai.net) with another post-doc level researcher Vivien Seguy. Chord AI is a mobile application using deep learning and artificial neural networks to recognize musical chords in real-time, in January 2021 we had more than 100,000 users. The technical achievements has been to bring state-of-the-art artificial intelligence to any popular power-limited mobile device. Besides the scientific relevance, I hope that it will help other amator musicians like me to improve their musical skills.
+  In 2019 I created [Chord ai](https://chordai.net) with another researcher Vivien Seguy. Chord AI is a mobile application using deep learning and artificial neural networks to recognize musical chords in real-time, in 2021 Chord ai has more than 100,000 monthly active users on iOS and Android platforms. The technical achievements has been to bring state-of-the-art artificial intelligence technology to any popular power-limited mobile device. Besides the scientific relevance, I hope that it will help other amator musicians like me to improve their musical skills.
+  
+# Online talks
+
+Pints of science 2021: scientific vulgarization about the brain
+[<img src="pints_of_science_screenshot.jpg" alt="Photo" width="100px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4)
+
+NeurIPS workshop 2019: Eligibility traces provides a data inspired alternative to back-prop through time (contributed talk)
+[<img src="neuips_talk.jpg" alt="Photo" width="100px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest)
 
 # Code resources
 
@@ -25,17 +33,20 @@ guillaume @ bellec . eu
 
 - [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow.  Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
 
-# Main publications
+# Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
+- Fitting summary statistics of neural data with a differentiable spiking network simulator  
+G Bellec\*, S Wang\*, A Modirshanechi, J Brea, W Gerstner  
+[NIPS 2021](https://arxiv.org/abs/2106.10064) 
+
+- Local plasticity rules can learn deep representations using self-supervised contrastive predictions  
+B Illing, J Ventura, G Bellec\*, W Gerstner\* 
+[NIPS 2021](https://arxiv.org/abs/2010.08262)
 
 - A solution to the learning dilemma for recurrent networks of spiking neurons  
 G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass  
 [Nature Communications](https://www.nature.com/articles/s41467-020-17236-y)
-
-- Eligibility traces provide a data-inspired alternative to backpropagation through time  
-G Bellec\*, F Scherr\*, E Hajek, D Salaj, A Subramoney, R Legenstein, W Maass  
-[NeurIPS 2019 (workshop)](https://openreview.net/forum?id=SkxJ4QKIIS)
 
 - Biologically inspired alternatives to backpropagation through time for
   learning in recurrent neural nets  
@@ -70,7 +81,7 @@ D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde
 G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde  
 (SMS 2013) Sound and Music Computing Conference
 
-(*: equal contributions and team work)
+(*: comparable contributions and team work)
 
 # Teaching
 
