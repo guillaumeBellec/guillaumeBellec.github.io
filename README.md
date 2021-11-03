@@ -17,13 +17,13 @@ guillaume @ bellec . eu
   
   In 2019 I created [Chord ai](https://chordai.net) with another researcher Vivien Seguy. Chord AI is a mobile application using deep learning and artificial neural networks to recognize musical chords in real-time, in 2021 Chord ai has more than 100,000 monthly active users on iOS and Android platforms. The technical achievements has been to bring state-of-the-art artificial intelligence technology to any popular power-limited mobile device. Besides the scientific relevance, I hope that it will help other amator musicians like me to improve their musical skills.
   
-# Online talks
+<!---
+Online talks
 
 Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2019 <br/> contributed talk
 -|-
 [<img src="pints_of_science_screenshot.png" alt="Video" width="200px" />](https://www.youtube.com/watch?v=SF4rqIcXPA4&t=6m43s) | [<img src="neurips_talk.png" alt="Video" width="200px" />](https://slideslive.com/38922692/contributed-talk-eligibility-traces-provide-a-datainspired-alternative-to-backpropagation-through-time?ref=speaker-22935-latest)
-
-
+--->
 
 
 
