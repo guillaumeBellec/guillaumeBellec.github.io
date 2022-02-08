@@ -11,7 +11,7 @@ Ecole Polytechnique Fédérale de Lausanne (EPFL)
 guillaume . bellec @ epfl . ch  
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_of_Guillaume_Bellec__english_(4).pdf)
 
-<img src="guillaume_bellec_lac.jpg" alt="Photo" width="200px" />
+<img src="photo_portrait_guillaume_bellec.jpg" alt="Photo" width="200px" />
 
   I develop computational theories of brains and intelligent machines. I studied machine learning during my Master in Paris and I completed my PhD in the Institute for Theoretical Computer Science of TU Graz in Austria. Currently, I am now a postdoc in the Laboratory of Computational Neuroscience at EPFL in Switzerland. My work is most well-known for showing that a competitive artificial intelligence can emerge from simple mathematical models of biologically realistic neural networks. Multiple of my publications are published in selective computer science conferences like NeurIPS or ICLR and more generalist journals like Nature Communications.
   
