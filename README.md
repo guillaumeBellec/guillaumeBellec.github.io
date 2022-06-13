@@ -61,7 +61,7 @@ G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
 C Liu\*, G Bellec\* ...  R Legenstein and C Mayr  
-[Frontiers in Neuroscience | Neuromorphic Engineering 2018](https://www.frontiersin.org/articles/10.3389/fnins.2018.00840/full)
+[Frontiers in Neuroscience 2018](https://www.frontiersin.org/articles/10.3389/fnins.2018.00840/full)
 
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
