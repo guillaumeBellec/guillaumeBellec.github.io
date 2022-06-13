@@ -29,6 +29,10 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 # Code resources
 
+- [CLAPP](https://github.com/EPFL-LCN/pub-illing2021-neurips) in PyTorch. Code used in the [NeurIPS 2021 paper](https://proceedings.neurips.cc/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html) _Local plasticity rules can learn deep representations using self-supervised contrastive predictions_.
+
+- [Sample-and-measure](https://github.com/EPFL-LCN/pub-bellec-wang-2021-sample-and-measure) in TensorFlow 2. Code used in the [NeurIPS 2021 paper](https://proceedings.neurips.cc/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html) _Fitting summary statistics of neural data with a differentiable spiking network simulator_.
+
 - [E-prop](https://github.com/IGITUGraz/eligibility_propagation) in Tensorflow. Code used in the [Nature Communications 2020 paper](https://www.nature.com/articles/s41467-020-17236-y) _A solution to the learning dilemma for recurrent networks of spiking neurons_.
 
 - [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow.  Code used in the [NIPS 2018 paper](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons) _Long short-term memory and Learning-to-learn in spiking neural networks_.
