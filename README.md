@@ -44,15 +44,15 @@ For a complete list of publications, visit my [google scholar profile](https://s
 
 - Fitting summary statistics of neural data with a differentiable spiking network simulator  
 G Bellec\*, S Wang\*, A Modirshanechi, J Brea, W Gerstner   
-[NeurIPS 2021](https://arxiv.org/abs/2106.10064) 
+[NeurIPS 2021](https://arxiv.org/abs/2106.10064) - [Code](https://github.com/EPFL-LCN/pub-bellec-wang-2021-sample-and-measure)
 
 - Local plasticity rules can learn deep representations using self-supervised contrastive predictions  
 B Illing, J Ventura, G Bellec\*, W Gerstner\*   
-[NeurIPS 2021](https://arxiv.org/abs/2010.08262)
+[NeurIPS 2021](https://arxiv.org/abs/2010.08262) - [Code](https://github.com/EPFL-LCN/pub-illing2021-neurips)
 
 - A solution to the learning dilemma for recurrent networks of spiking neurons  
 G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass  
-[Nature Communications](https://www.nature.com/articles/s41467-020-17236-y)
+[Nature Communications](https://www.nature.com/articles/s41467-020-17236-y) - [Code](https://github.com/IGITUGraz/eligibility_propagation)
 
 - Biologically inspired alternatives to backpropagation through time for
   learning in recurrent neural nets  
@@ -61,7 +61,7 @@ G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass  
-[NIPS 2018](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf) - [arxiv](https://arxiv.org/abs/1803.09574)
+[NIPS 2018](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf) - [arxiv](https://arxiv.org/abs/1803.09574) - [Code](https://github.com/IGITUGraz/LSNN-official)
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
 C Liu\*, G Bellec\* ...  R Legenstein and C Mayr  
@@ -69,7 +69,7 @@ C Liu\*, G Bellec\* ...  R Legenstein and C Mayr
 
 - Deep Rewiring: Training very sparse deep networks  
 G Bellec, D Kappel, W Maass, R Legenstein  
-[ICLR 2018](https://arxiv.org/abs/1711.05136)
+[ICLR 2018](https://arxiv.org/abs/1711.05136) - [Code](https://github.com/guillaumeBellec/deep_rewiring)
 
 - Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system  
 S Schmitt, J Klähn, G Bellec ... R Legenstein, W Maass, J Schemmel, K Meier  
