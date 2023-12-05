@@ -31,13 +31,13 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 - [multitask mini-toolbox](https://github.com/guillaumeBellec/multitask) in PyTorch: optimize multiple loss functions without fine-tuning task weights.
 
-### Data-constrained simulations of biological neural networks 
+#### Data-constrained simulations of biological neural networks 
 
 - [Trial matching](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) in PyTorch: biological network model of electrophysiology data with optimal transport [neurips 2023](https://openreview.net/forum?id=LAbxkhkjbD).  
 
 - [Sample-and-measure](https://github.com/EPFL-LCN/pub-bellec-wang-2021-sample-and-measure) in TensorFlow 2: fitting neural data with a differentiable spiking simulator  [neurips 2021](https://proceedings.neurips.cc/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html).
 
-### Models of brain plasticity and neuromorphic computing
+#### Models of brain plasticity and neuromorphic computing
 
 - [Self-supervised model](https://github.com/EPFL-LCN/pub-illing2021-neurips) in PyTorch: local (layer-wise) self-supervised learning  [CLAPP, neurips 2021](https://proceedings.neurips.cc/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html).
 
