@@ -39,7 +39,7 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 #### Models of brain plasticity and neuromorphic computing
 
-- [Self-supervised model](https://github.com/EPFL-LCN/pub-illing2021-neurips) in PyTorch: local (layer-wise) self-supervised learning  [CLAPP, NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html).
+- [CLAPP](https://github.com/EPFL-LCN/pub-illing2021-neurips) in PyTorch: local (layer-wise) self-supervised learning  [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html).
 
 - [E-prop](https://github.com/IGITUGraz/eligibility_propagation) in Tensorflow: a local alternative to back-prop through time [Nature Communications 2020 paper](https://www.nature.com/articles/s41467-020-17236-y).
 
