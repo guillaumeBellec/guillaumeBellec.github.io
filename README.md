@@ -68,7 +68,7 @@ G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass
 
 - Biologically inspired alternatives to backpropagation through time for
   learning in recurrent neural nets   
-G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass
+G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
 *TL;DR: Three chapters on eligibility propagation, the first became the Nature Communications paper*  
 [Arxiv 2019](https://arxiv.org/abs/1901.09049)
 
