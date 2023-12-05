@@ -33,7 +33,7 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 ### Data-constrained simulations of biological neural networks 
 
-- [Trial matching](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) in PyTorch: fitting a biological neural network model to electrophysiology data with optimal transport [neurIPS 2023](https://openreview.net/forum?id=LAbxkhkjbD)).  
+- [Trial matching](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) in PyTorch: biological network model of electrophysiology data with optimal transport [neurips 2023](https://openreview.net/forum?id=LAbxkhkjbD).  
 
 - [Sample-and-measure](https://github.com/EPFL-LCN/pub-bellec-wang-2021-sample-and-measure) in TensorFlow 2: fitting neural data with a differentiable spiking simulator  [neurips 2021](https://proceedings.neurips.cc/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html).
 
@@ -43,16 +43,16 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 - [E-prop](https://github.com/IGITUGraz/eligibility_propagation) in Tensorflow: a local alternative to back-prop through time [Nature Communications 2020 paper](https://www.nature.com/articles/s41467-020-17236-y).
 
-- [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow: Long short-term memory and meta-learning in spiking neural networks  [neurips 2018](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons).
+- [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow: Long short-term memory and meta-learning in spiking neural networks [neurips 2018](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons).
 
-- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow: training sparse deep networks from scratch. [ICLR 2018](https://arxiv.org/abs/1711.05136)
+- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow: training sparse deep networks from scratch [ICLR 2018](https://arxiv.org/abs/1711.05136)
 
 # Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
 - Trial matching: capturing variability with data-constrained spiking neural networks
 C Sourmpis, CCH Petersen, W Gerstner, G Bellec
-[NeurIPS 2023](https://openreview.net/forum?id=LAbxkhkjbD) - [Code](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) - [arxiv](https://arxiv.org/abs/2306.03603)
+[NeurIPS 2023](https://openreview.net/forum?id=LAbxkhkjbD) - [Code](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) - [Arxiv](https://arxiv.org/abs/2306.03603)
 
 - Fitting summary statistics of neural data with a differentiable spiking network simulator  
 G Bellec\*, S Wang\*, A Modirshanechi, J Brea, W Gerstner   
@@ -69,11 +69,11 @@ G Bellec\*, F Scherr\*, A Subramoney, E Hajek, D Salaj, R Legenstein, W Maass
 - Biologically inspired alternatives to backpropagation through time for
   learning in recurrent neural nets  
 G Bellec\*, F Scherr\*, E Hajek, D Salaj, R Legenstein, W Maass  
-[arxiv 2019](https://arxiv.org/abs/1901.09049)
+[Arxiv 2019](https://arxiv.org/abs/1901.09049)
 
 - Long short-term memory and Learning-to-learn in networks of spiking neurons  
 G Bellec\*, D Salaj\*, A Subramoney\*, R Legenstein, W Maass  
-[NIPS 2018](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf) - [arxiv](https://arxiv.org/abs/1803.09574) - [Code](https://github.com/IGITUGraz/LSNN-official)
+[NIPS 2018](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf) - [Code](https://github.com/IGITUGraz/LSNN-official) - [Arxiv](https://arxiv.org/abs/1803.09574) 
 
 - Memory-Efficient Deep Learning on a SpiNNaker 2 Prototype  
 C Liu\*, G Bellec\* ...  R Legenstein and C Mayr  
