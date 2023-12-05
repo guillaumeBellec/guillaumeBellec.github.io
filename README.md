@@ -90,9 +90,9 @@ S Schmitt, J Klähn, G Bellec ... R Legenstein, W Maass, J Schemmel, K Meier
 
 - Slow feature analysis with spiking neurons and its application to audio stimuli  
 G Bellec, M Galtier, R Brette, P Yger  
-(JCNS 2016) Journal of computational neuroscience
+(JCNS 2016) Journal of Computational Neuroscience
 
-- Creating audio based experiments as social web games with the casimir framework  
+- Creating audio-based experiments as social web games with the casimir framework  
 D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde  
 (AES 2014) Audio Engineering Society Conference
 
@@ -100,7 +100,7 @@ D Wolff, G Bellec, A Friberg, A MacFarlane, T Weyde
 G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde  
 (SMS 2013) Sound and Music Computing Conference
 
-(*: comparable contributions and team work)
+(*: comparable contributions and teamwork)
 
 # Teaching
 
@@ -108,8 +108,8 @@ G Bellec, A Elowsson, A Friberg, D Wolff, T Weyde
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=216646)
 
 - Introduction to machine learning at TU Graz from 2016 to 2019  
-(aka computational intelligence, lectures and practicals at bachelor level)  
+(aka computational intelligence, lectures, and practicals at bachelor level)  
 [Registration page](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=203426&pSpracheNr=2)
 
 - Reinforcement learning at TU Graz in 2017  
-(aka autonously learning systems, practicals at master level) 
+(aka autonomously learning systems, practicals at master level) 
