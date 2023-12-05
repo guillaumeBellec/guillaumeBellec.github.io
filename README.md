@@ -45,7 +45,7 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 - [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow: Long short-term memory and meta-learning in spiking neural networks [NeurIPS 2018](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons).
 
-- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow: training sparse deep networks from scratch [ICLR 2018](https://arxiv.org/abs/1711.05136)
+- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow: training sparse deep networks from scratch [ICLR 2018](https://arxiv.org/abs/1711.05136).
 
 # Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
