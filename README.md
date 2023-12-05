@@ -27,17 +27,27 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 
 
 
-# Code resources
+# Open-source codes
 
-- [CLAPP](https://github.com/EPFL-LCN/pub-illing2021-neurips) in PyTorch. Code used in the [NeurIPS 2021 paper](https://proceedings.neurips.cc/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html) _Local plasticity rules can learn deep representations using self-supervised contrastive predictions_.
+- [multitask mini-toolbox](https://github.com/guillaumeBellec/multitask) in PyTorch: optimize multiple loss functions without re
 
-- [Sample-and-measure](https://github.com/EPFL-LCN/pub-bellec-wang-2021-sample-and-measure) in TensorFlow 2. Code used in the [NeurIPS 2021 paper](https://proceedings.neurips.cc/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html) _Fitting summary statistics of neural data with a differentiable spiking network simulator_.
+### Data-constrained simulations of biological neural networks 
+
+- [Trial matching](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) in PyTorch: fitting a biological neural network model to large electrophysiology datasets, uses optimal transport ([NeurIPS 2023 paper](https://openreview.net/forum?id=LAbxkhkjbD)).  
+
+- [Sample-and-measure](https://github.com/EPFL-LCN/pub-bellec-wang-2021-sample-and-measure) in TensorFlow 2: fitting summary statistics of neural data with a differentiable spiking network simulator  [NeurIPS 2021 paper](https://proceedings.neurips.cc/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html).
+
+### Models of brain plasticity
+
+- [Self-supervised model](https://github.com/EPFL-LCN/pub-illing2021-neurips) in PyTorch. Code used in the  [CLAPP paper](https://proceedings.neurips.cc/paper/2021/hash/feade1d2047977cd0cefdafc40175a99-Abstract.html) (NeurIPS 2021).
 
 - [E-prop](https://github.com/IGITUGraz/eligibility_propagation) in Tensorflow. Code used in the [Nature Communications 2020 paper](https://www.nature.com/articles/s41467-020-17236-y) _A solution to the learning dilemma for recurrent networks of spiking neurons_.
 
-- [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow.  Code used in the [NIPS 2018 paper](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons) _Long short-term memory and Learning-to-learn in spiking neural networks_.
+### Energy-efficient deep learning and neuromorphic computing
 
-- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow.  Code used in the [ICLR 2018 paper](https://arxiv.org/abs/1711.05136) _Deep Rewiring: Training very sparse deep networks_.
+- [LSNN](https://github.com/IGITUGraz/LSNN-official) in Tensorflow: Long short-term memory and meta-learning in spiking neural networks  [NIPS 2018 paper](http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons).
+
+- [Deep Rewiring](https://github.com/guillaumeBellec/deep_rewiring) in Tensorflow: training sparse deep networks from scratch. [ICLR 2018](https://arxiv.org/abs/1711.05136)
 
 # Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
