@@ -51,7 +51,7 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
 - High-performance deep spiking neural networks with 0.3 spikes per neuron  
- Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner  
+ A Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner  
 [Nature Communications](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)
 
 - Trial matching: capturing variability with data-constrained spiking neural networks  
