@@ -50,6 +50,10 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 # Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
+- Spiking Music: Audio Compression with Event Based Auto-encoders  
+M Lisboa, G Bellec  
+[Arxiv 2024](https://arxiv.org/abs/2402.01571)
+  
 - High-performance deep spiking neural networks with 0.3 spikes per neuron  
  A Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner  
 [Nature Communications](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)
