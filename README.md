@@ -56,7 +56,7 @@ M Lisboa, G Bellec
   
 - High-performance deep spiking neural networks with 0.3 spikes per neuron  
  A Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner  
-[Nature Communications](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)
+[Nature Communications 2024](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)
 
 - Trial matching: capturing variability with data-constrained spiking neural networks  
 C Sourmpis, CCH Petersen, W Gerstner, G Bellec  
