@@ -50,6 +50,10 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 # Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
+- High-performance deep spiking neural networks with 0.3 spikes per neuron
+ Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner 
+[Nature Communicatios](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)
+
 - Trial matching: capturing variability with data-constrained spiking neural networks
 C Sourmpis, CCH Petersen, W Gerstner, G Bellec
 [NeurIPS 2023](https://openreview.net/forum?id=LAbxkhkjbD) - [Code](https://github.com/EPFL-LCN/pub-sourmpis2023-neurips/tree/master) - [Arxiv](https://arxiv.org/abs/2306.03603)
