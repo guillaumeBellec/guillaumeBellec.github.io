@@ -50,6 +50,10 @@ Pints of science 2021 <br/> popular-science about the brain | NeurIPS workshop 2
 # Selected publications
 For a complete list of publications, visit my [google scholar profile](https://scholar.google.fr/citations?user=fSXUVvAAAAAJ).
 
+- Biologically informed cortical models predict optogenetic perturbations  
+C Sourmpis, CH Petersen, W Gerstner, G Bellec  
+[Biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.09.27.615361)
+
 - Spiking Music: Audio Compression with Event Based Auto-encoders  
 M Lisboa, G Bellec  
 [Arxiv 2024](https://arxiv.org/abs/2402.01571)
