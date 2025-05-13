@@ -9,7 +9,7 @@
 Assistant Professor at the Machine Learning Research Unit  
 Technical University of Vienna (TU Wien, Austria)  
 guillaume . bellec @ tuwien . ac . at  
-[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_and_publications.pdf)
+[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_and_publications_2025.pdf)
 
 <img src="photo_portrait_guillaume_bellec.jpg" alt="Photo" width="200px" />
 
