@@ -62,7 +62,7 @@ For a complete list of publications, visit my [google scholar profile](https://s
 
 - Biologically informed cortical models predict optogenetic perturbations  
 C Sourmpis, CH Petersen, W Gerstner, G Bellec  
-[eLife](https://elifesciences.org/reviewed-preprints/106827) - [Biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.09.27.615361)
+[eLife 2025](https://elifesciences.org/reviewed-preprints/106827) - [Biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.09.27.615361)
 
 - Spiking Music: Audio Compression with Event Based Auto-encoders  
 M Lisboa, G Bellec  
