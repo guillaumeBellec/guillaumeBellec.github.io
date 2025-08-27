@@ -9,9 +9,19 @@
 Assistant Professor at the Machine Learning Research Unit  
 Technical University of Vienna (TU Wien, Austria)  
 guillaume . bellec @ tuwien . ac . at  
+
+
+Office FB 02 14, Second floor  
+Erzherzog-Johann-Platz 1  
+1040 Vienna  
+
++43 664 14 00 987  
+
 [CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_and_publications_2025.pdf)
 
 <img src="photo_portrait_guillaume_bellec.jpg" alt="Photo" width="200px" />
+
+<b>We are hiring PhD students and post-docs</b>  
 
   I study the principles of brain computation using machine learning and artificial intelligence (AI). My work is most well-known for showing how a functional artificial intelligence can emerge from simplified mathematical models of biologically realistic neural networks. I studied machine learning during my Master's in Paris and completed my PhD in 2019 at the Institute for Theoretical Computer Science of TU Graz in Austria. After a postdoc in the Laboratory of Computational Neuroscience at EPFL in Switzerland, I started my lab in 2025 at TU Wien (Vienna, Austria). Multiple of my publications are published in selective computer science conferences like NeurIPS or ICLR and more generalist journals like Nature Communications.
   
