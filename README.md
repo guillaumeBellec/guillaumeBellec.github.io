@@ -62,15 +62,17 @@ For a complete list of publications, visit my [google scholar profile](https://s
 
 - Biologically informed cortical models predict optogenetic perturbations  
 C Sourmpis, CH Petersen, W Gerstner, G Bellec  
-[eLife 2025](https://elifesciences.org/reviewed-preprints/106827) - [Biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.09.27.615361)
+[eLife 2025](https://elifesciences.org/reviewed-preprints/106827) - [Biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.09.27.615361)  
+
+
+- High-performance deep spiking neural networks with 0.3 spikes per neuron  
+ A Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner  
+[Nature Communications 2024](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)  
 
 - Spiking Music: Audio Compression with Event Based Auto-encoders  
 M Lisboa, G Bellec  
-[Arxiv 2024](https://arxiv.org/abs/2402.01571)
+[Arxiv 2024](https://arxiv.org/abs/2402.01571)  
   
-- High-performance deep spiking neural networks with 0.3 spikes per neuron  
- A Stanojevic, S Woźniak, G Bellec, G Cherubini, A Pantazi, W Gerstner  
-[Nature Communications 2024](https://www.nature.com/articles/s41467-024-51110-5) - [Arxiv](https://arxiv.org/abs/2306.08744)
 
 - Trial matching: capturing variability with data-constrained spiking neural networks  
 C Sourmpis, CCH Petersen, W Gerstner, G Bellec  
