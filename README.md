@@ -17,7 +17,9 @@ Erzherzog-Johann-Platz 1
 
 +43 664 14 00 987  
 
-[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_and_publications_2025.pdf)
+[CV](https://github.com/guillaumeBellec/guillaumeBellec.github.io/blob/master/CV_and_publications_2025.pdf)  
+
+[Google scholar](https://scholar.google.com/citations?user=fSXUVvAAAAAJ)  
 
 <img src="photo_portrait_guillaume_bellec.jpg" alt="Photo" width="200px" />
 
