@@ -28,7 +28,7 @@ Erzherzog-Johann-Platz 1
   
   In 2019 I created [Chord ai](https://chordai.net) with another AI researcher Vivien Seguy. Chord ai is a mobile application using deep learning and artificial neural networks to recognize musical chords in real-time. The application and Chord ai has had more than 2,000,000 users on iOS and Android platforms in 2025. The technical achievement has been to bring state-of-the-art artificial intelligence technology to any popular power-limited mobile device. Besides the scientific challenge, I hope that it will help amateur musicians like me to improve their musical skills. 
 
-  Since 2025, the work of my research group at TU Wien is funded in part by the WWTF Vienna Research Group leader award Our project is called  "AI & Neuroscience". We are very grateful to Vienna Science and Technology Funds (WWTF) for it's support.
+  Since 2025, the work of my research group at TU Wien is funded in part by the WWTF Vienna Research Group leader award Our project is called  "AI & Neuroscience". We are very grateful to the Vienna Science and Technology Funds (WWTF) for their support.
   
 <!---
 Online talks
