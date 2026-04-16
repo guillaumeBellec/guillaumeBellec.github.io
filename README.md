@@ -27,6 +27,8 @@ Erzherzog-Johann-Platz 1
   I study the principles of brain computation using machine learning and artificial intelligence (AI). My work is most well-known for showing how a functional artificial intelligence can emerge from simplified mathematical models of biologically realistic neural networks. I studied machine learning during my Master's in Paris and completed my PhD in 2019 at the Institute for Theoretical Computer Science of TU Graz in Austria. After a postdoc in the Laboratory of Computational Neuroscience at EPFL in Switzerland, I started my lab in 2025 at TU Wien (Vienna, Austria). Multiple of my publications are published in selective computer science conferences like NeurIPS or ICLR and more generalist journals like Nature Communications.
   
   In 2019 I created [Chord ai](https://chordai.net) with another AI researcher Vivien Seguy. Chord ai is a mobile application using deep learning and artificial neural networks to recognize musical chords in real-time. The application and Chord ai has had more than 2,000,000 users on iOS and Android platforms in 2025. The technical achievement has been to bring state-of-the-art artificial intelligence technology to any popular power-limited mobile device. Besides the scientific challenge, I hope that it will help amateur musicians like me to improve their musical skills. 
+
+  Since 2025, the work of my research group at TU Wien is funded in part by the WWTF Vienna Research Group leader award Our project is called "Neuroscience & AI". We are very grateful to Vienna Science and Technology Funds (WWTF) for it's support.
   
 <!---
 Online talks
